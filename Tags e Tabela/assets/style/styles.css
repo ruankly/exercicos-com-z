@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    background-color: rgb(255, 255, 255);
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+}
+table {
+    border: 2px ridge black; 
+    border-top: 1px ridge white;
+    border-bottom: 1px ridge white;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
